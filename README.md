@@ -1,2 +1,2 @@
-# Resizable-AR-Objects
+# Resizable AR Objects
 Experimenting with RealityKit
